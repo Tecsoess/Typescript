@@ -267,21 +267,21 @@
 |  123  | [Meesho](https://www.google.com/url?q=https%3A%2F%2Fmeesho.com%2F&sa=D&sntz=1&usg=AOvVaw19-ovAUnL5BmdJ3eDavgU2 "Meesho")   |   |   |   |
 |  124  | [Tophatter](https://www.google.com/url?q=https%3A%2F%2Ftophatter.com%2F&sa=D&sntz=1&usg=AOvVaw0EflEMNoFRBa5WlPTX_yuZ "Tophatter")  |   |   |   |
 |  125  | [GAME](https://www.google.com/url?q=https%3A%2F%2Fwww.game.co.uk%2F&sa=D&sntz=1&usg=AOvVaw1j_j4qIKhYY0gqWqaJt5uy "GAME")   |   |   |   |
-|  126  | Kanui   |   |   |   |
-|  127  | Decathlon   |   |   |   |
-|  128  | Galeries Lafayette   |   |   |   |
-|  129  | Jane   |   |   |   |
-|  130  | Pepperfry   |   |   |   |
-|  131  | Fyndiq   |   |   |   |
-|  132  | Tradesy   |   |   |   |
-|  133  | hood  |   |   |   |
-|  134  | eCRATER   |   |   |   |
-|  135  | Konga   |   |   |   |
-|  136  | Okazii.ro   |   |   |   |
-|  137  | miinto   |   |   |   |
-|  138  | Cel   |   |   |   |
-|  139  | Storenvy   |   |   |   |
-|  140  | Tricae   |   |   |   |
-|  141  | Paytm Mall   |   |   |   |
-|  142  | bidorbuy   |   |   |   |
-|  143  | Micolet   |   |   |   |
+|  126  | [Kanui](https://www.google.com/url?q=https%3A%2F%2Fwww.kanui.com.br%2F&sa=D&sntz=1&usg=AOvVaw2f38ijDBQTTRSD9MMBcUGN "Kanui")   |   |   |   |
+|  127  | [Decathlon](https://www.google.com/url?q=https%3A%2F%2Fwww.decathlon.be%2Ffr%2F&sa=D&sntz=1&usg=AOvVaw2doWiMuuxY-CQJEK9X7u55 "Decathlon")   |   |   |   |
+|  128  | [Galeries Lafayette](https://www.google.com/url?q=https%3A%2F%2Fwww.galerieslafayette.com%2F&sa=D&sntz=1&usg=AOvVaw0mFQzVz_5iFmNsWFl6ioSy "Galeries Lafayette")   |   |   |   |
+|  129  | [Jane](https://www.google.com/url?q=https%3A%2F%2Fjane.com%2F&sa=D&sntz=1&usg=AOvVaw2Uazzifvv2LwYlJImFtx2v "Jane")   |   |   |   |
+|  130  | [Pepperfry ](https://www.google.com/url?q=https%3A%2F%2Fwww.pepperfry.com%2F&sa=D&sntz=1&usg=AOvVaw128Z7YHRCro0hS5XC2r6Pu "Pepperfry ")  |   |   |   |
+|  131  | [Fyndiq](https://www.google.com/url?q=https%3A%2F%2Ffyndiq.se%2F&sa=D&sntz=1&usg=AOvVaw2crHp8oFinILFFxtLT3R0Y "Fyndiq")   |   |   |   |
+|  132  | [Tradesy](https://www.google.com/url?q=https%3A%2F%2Fwww.tradesy.com%2F&sa=D&sntz=1&usg=AOvVaw0BHK-Wedd9jUkVvtciw6XW "Tradesy")   |   |   |   |
+|  133  | [hood](https://www.google.com/url?q=https%3A%2F%2Fwww.hood.de%2F&sa=D&sntz=1&usg=AOvVaw3vsDj4IK2ept89b3Ca9B54 "hood")  |   |   |   |
+|  134  | [eCRATER](https://www.google.com/url?q=https%3A%2F%2Fwww.ecrater.com%2F&sa=D&sntz=1&usg=AOvVaw2Ctu7Pk_gxu7sC-IJqDc3d "eCRATER")   |   |   |   |
+|  135  | [Konga](https://www.google.com/url?q=https%3A%2F%2Fwww.konga.com%2F&sa=D&sntz=1&usg=AOvVaw3vt3-uQLo7y0JlrTpQ3WVQ "Konga")   |   |   |   |
+|  136  | [Okazii.ro ](https://www.google.com/url?q=https%3A%2F%2Fwww.okazii.ro%2F&sa=D&sntz=1&usg=AOvVaw2HyTk_2RE5vp6ylGavEhb_ "Okazii.ro ")  |   |   |   |
+|  137  | [miinto](https://www.google.com/url?q=https%3A%2F%2Fwww.miinto.dk%2F&sa=D&sntz=1&usg=AOvVaw2L9Zn8JRNxZnSgwxy8ZPxU "miinto")   |   |   |   |
+|  138  | [Cel ](https://www.google.com/url?q=https%3A%2F%2Fwww.cel.ro%2F&sa=D&sntz=1&usg=AOvVaw3359R2ssBqJXpIG9I8jgTP "Cel ")  |   |   |   |
+|  139  | [Storenvy  ](https://www.google.com/url?q=https%3A%2F%2Fwww.storenvy.com%2F&sa=D&sntz=1&usg=AOvVaw3nnasrubaMiu82EbMaDiKw "Storenvy  ") |   |   |   |
+|  140  | [Tricae](https://www.google.com/url?q=https%3A%2F%2Fwww.tricae.com.br%2F&sa=D&sntz=1&usg=AOvVaw1R_FQP7O0E17U6Ddf84xG0 "Tricae")   |   |   |   |
+|  141  | [Paytm Mall ](https://www.google.com/url?q=https%3A%2F%2Fpaytmmall.com%2F&sa=D&sntz=1&usg=AOvVaw0-SwHeJx5sLS_FCkthf2WE "Paytm Mall ")  |   |   |   |
+|  142  | [bidorbuy  ](https://www.google.com/url?q=https%3A%2F%2Fwww.bidorbuy.co.za%2F&sa=D&sntz=1&usg=AOvVaw1BJlaxuaRLbL7ID5Kzgzm3 "bidorbuy  ") |   |   |   |
+|  143  | [Micolet ](https://www.google.com/url?q=https%3A%2F%2Fwww.micolet.co.uk%2F&sa=D&sntz=1&usg=AOvVaw1fqfigAqKkcZLH3DcVKvXJ "Micolet ")  |   |   |   |
