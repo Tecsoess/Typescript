@@ -123,13 +123,13 @@
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Paseo Libertad  |   |  Bancario |   |
-|  2  | Sambil On line|   | Bancario  |   |
-|  3 |  Portafolio Argentina |   | Bancario  |   |
-|   4| Paris.cl  |   | Bancario  |   |
-|   5|  TOM |   | Bancario  |   |
-| 7  | Estudio Nube  |   | Bancario  |   |
-| 8  |  San Justo shopping on line |   | Bancario  |   |
-| 9  | Mall Marina  |   | Bancario  |   |
-| 10  | Americanas  |   | Bancario  |   |
-| 11  |  Magalu |   | Bancario  |   |
+|  1  | paris  |   |  Supermercado |   |
+|  2  | hiperlibertad |   | Supermercado  |   |
+|  3 |  tuzonamarket |   | Supermercado  |   |
+|   4| Paris.cl  |   | Supermercado  |   |
+|   5|  maxiconsumo |   | Supermercado  |   |
+| 7  | cotodigital |   | Supermercado  |   |
+| 8  |  farmacity |   | Supermercado  |   |
+| 9  | easy  |   | Supermercado  |   |
+| 10  | jumbo  |   | Supermercado  |   |
+
