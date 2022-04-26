@@ -135,3 +135,155 @@
 | 6  |  [farmacity](https://www.farmacity.com/ "farmacity") |   | Supermercado  |   |
 | 7  | [easy](https://www.easy.cl/tienda/ "easy")  |   | Supermercado  |   |
 | 8  | [jumbo](https://www.jumbo.cl/ "jumbo")  |   | Supermercado  |   |
+
+
+
+# The world’s top online marketplaces
+
+| # | Nombre  | País/Región  | Product Category   | Visits/month  |
+| :------------: | :------------: | :------------: | :------------: | :------------: |
+|  1  | [Amazon](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2F&sa=D&sntz=1&usg=AOvVaw1c7iy-gOQIMBKgOCnBB_Gs "Amazon")  |   |   |   |
+|  2  | [eBay](https://www.google.com/url?q=https%3A%2F%2Fwww.ebay.com%2F&sa=D&sntz=1&usg=AOvVaw0OS2NxdTj78rFlN63M_mZR "eBay")   |   |   |   |
+|  3  | [Mercado Libre](https://www.google.com/url?q=https%3A%2F%2Fwww.mercadolibre.com.ar%2F&sa=D&sntz=1&usg=AOvVaw3UxbHkPih9hgN1PFIsqiME "Mercado Libre")   |   |   |   |
+|  4  | [Rakuten ](https://www.google.com/url?q=https%3A%2F%2Fwww.rakuten.com%2F&sa=D&sntz=1&usg=AOvVaw1lozViXeHXiYG5EiER5elE "Rakuten ")  |   |   |   |
+|  5  | [AliExpress](https://www.google.com/url?q=https%3A%2F%2Fbest.aliexpress.com%2F%3Fnew_site%3D1%26aff_platform%3Ddefault%26commercial_type%3DbestPage&sa=D&sntz=1&usg=AOvVaw0TvCC4A9qea6Cnpz9F3-Wn "AliExpress")  |   |   |   |
+|  6  | [Shopee](https://www.google.com/url?q=https%3A%2F%2Fshopee.com%2F&sa=D&sntz=1&usg=AOvVaw3_iQzE4aozxdzPbjldh5XL "Shopee")   |   |   |   |
+|  7  | [Walmart.com](https://www.google.com/url?q=https%3A%2F%2Fwww.walmart.com%2Fblocked%3Furl%3DLz9vZG5Gb3JjZVRUTD0xMG0%3D%26uuid%3D%26vid%3D%26g%3Db&sa=D&sntz=1&usg=AOvVaw3uO3ZaW2rJHI8zzVIUJlJY "Walmart.com")   |   |   |   |
+|  8  | [Etsy](https://www.google.com/url?q=https%3A%2F%2Fwww.etsy.com%2F&sa=D&sntz=1&usg=AOvVaw3GMULCoMMeOeynSQSxO46s "Etsy")   |   |   |   |
+|  9  | [Taobao](https://www.google.com/url?q=https%3A%2F%2Fworld.taobao.com%2F&sa=D&sntz=1&usg=AOvVaw3MSxgGYVwtcfFoTQyCdkZ6 "Taobao")   |   |   |   |
+|  10  | [Pinduoduo](https://www.google.com/url?q=https%3A%2F%2Fen.pinduoduo.com%2F&sa=D&sntz=1&usg=AOvVaw2btOlZ3nZNS8uHnw8AMr5B "Pinduoduo")  |   |   |   |
+|  11  | [Trendyol](https://www.google.com/url?q=https%3A%2F%2Fwww.trendyol.com%2F&sa=D&sntz=1&usg=AOvVaw06XqxsujMcqpWxpDdqDLXC "Trendyol")  |   |   |   |
+|  12  | [Allegro ](https://www.google.com/url?q=https%3A%2F%2Fallegro.pl%2F&sa=D&sntz=1&usg=AOvVaw0G3Pt8KJbnR45n_mKBUSa1 "Allegro ") |   |   |   |
+|  13  |[Target.com ](https://www.google.com/url?q=https%3A%2F%2Fwww.target.com%2F&sa=D&sntz=1&usg=AOvVaw1yPzO3g9Feyx3uE_DDa1WW "Target.com ") |   |   |   |
+|  14  | [Wayfair ](https://www.google.com/url?q=https%3A%2F%2Fwww.wayfair.com%2Fv%2Fcaptcha%2Fshow%3Fgoto%3Dhttps%253A%252F%252Fwww.wayfair.com%253F%26px%3D1%26captcha_status%3D0&sa=D&sntz=1&usg=AOvVaw14kqWG5TcvwmXHr3L2FK7F "Wayfair ")  |   |   |   |
+|  15  | [JD.com](https://www.google.com/url?q=https%3A%2F%2Fcorporate.jd.com%2Fhome&sa=D&sntz=1&usg=AOvVaw02wSBR2J567QRRQkvyVUoa "JD.com")  |   |   |   |
+|  16  | [Flipkart](https://www.google.com/url?q=https%3A%2F%2Fwww.flipkart.com%2F&sa=D&sntz=1&usg=AOvVaw1IfWo7UzIHaPNmTOFWn0zP "Flipkart")  |   |   |   |
+|  17  | [Wildberries ](https://www.google.com/url?q=https%3A%2F%2Fwww.wildberries.ru%2F&sa=D&sntz=1&usg=AOvVaw0lhodqwwiBlAVuZSaNkmkI "Wildberries ") |   |   |   |
+|  18  | [Tokopedia ](https://www.google.com/url?q=https%3A%2F%2Fwww.tokopedia.com%2F&sa=D&sntz=1&usg=AOvVaw3cZMf_95W4TCf8PltBSRYI "Tokopedia ")  |   |   |   |
+|  19  | [Lazada ](https://www.google.com/url?q=https%3A%2F%2Fwww.lazada.com%2Fen%2F&sa=D&sntz=1&usg=AOvVaw3gkTegn9GPqXyE-QJ6i_b3 "Lazada ") |   |   |   |
+|  20  | [Zalando ](https://www.google.com/url?q=https%3A%2F%2Fwww.zalando.com%2F&sa=D&sntz=1&usg=AOvVaw2iBqdrTwq92jjIF7EDKRmN "Zalando ")  |   |   |   |
+|  21  | [Americanas ](https://www.google.com/url?q=https%3A%2F%2Famericanasmarketplace.com.br%2F&sa=D&sntz=1&usg=AOvVaw2qFTA23jvA49t_O0le5aZm "Americanas ")  |   |   |   |
+|  22  | [Tmall ](https://www.google.com/url?q=https%3A%2F%2Fwww.tmall.com%2F&sa=D&sntz=1&usg=AOvVaw3pGdzqZtLDvQUEn7jMoOXR "Tmall ")  |   |   |   |
+|  23  | [Mercari ](https://www.google.com/url?q=https%3A%2F%2Fwww.mercari.com%2F&sa=D&sntz=1&usg=AOvVaw3s6zIG1Jvw6ptm_QhMrqZN "Mercari ")  |   |   |   |
+|  24  | [Hepsiburada ](https://www.google.com/url?q=https%3A%2F%2Fwww.hepsiburada.com%2F&sa=D&sntz=1&usg=AOvVaw2r8pUkE3_CvQ46KsVDYSP5 "Hepsiburada ")  |   |   |   |
+|  25  | [Wish](https://www.google.com/url?q=https%3A%2F%2Fwww.wish.com%2F&sa=D&sntz=1&usg=AOvVaw2gT-oaSjEueFKMi_6H7oXf "Wish")  |   |   |   |
+|  26  | [Ozon](https://www.google.com/url?q=https%3A%2F%2Fwww.ozon.ru%2F&sa=D&sntz=1&usg=AOvVaw1qj89nR723bDzb_ePXrJ6D "Ozon")  |   |   |   |
+|  27  | [Casas Bahia ](https://www.google.com/url?q=https%3A%2F%2Fwww.casasbahia.com.br%2F&sa=D&sntz=1&usg=AOvVaw0PyBVR-AMEIizDFswAv0zs "Casas Bahia ")  |   |   |   |
+|  28  | [bol.com](https://www.google.com/url?q=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2F&sa=D&sntz=1&usg=AOvVaw2dh8YUTBb4BkI-wslKzQPp "bol.com")  |   |   |   |
+|  29  | [ASOS](https://www.google.com/url?q=https%3A%2F%2Fmarketplace.asos.com%2F&sa=D&sntz=1&usg=AOvVaw1sZVJqL7pvQsBCwF6DKlJI "ASOS")   |   |   |   |
+|  30  | [Coupang](https://www.google.com/url?q=https%3A%2F%2Fwww.coupang.com%2F&sa=D&sntz=1&usg=AOvVaw2TYJjSadIcUBTAIr-SRqX1 "Coupang")   |   |   |   |
+|  31  | [OTTO ](https://www.google.com/url?q=https%3A%2F%2Fwww.otto.de%2F&sa=D&sntz=1&usg=AOvVaw0OjHZ-Os3quDHoRhSIfnOP "OTTO ")  |   |   |   |
+|  32  | [Vinted ](https://www.google.com/url?q=https%3A%2F%2Fwww.vinted.com%2F&sa=D&sntz=1&usg=AOvVaw2e4ubFVdphck9G65n8BbtX "Vinted ")  |   |   |   |
+|  33  | [Marktplaats ](https://www.google.com/url?q=https%3A%2F%2Fwww.marktplaats.nl%2F&sa=D&sntz=1&usg=AOvVaw1HK0kLUrGAo9MWslM-vs8d "Marktplaats ")  |   |   |   |
+|  34  | Cdiscount.com   |   |   |   |
+|  35  | ManoMano   |   |   |   |
+|  36  | Discogs   |   |   |   |
+|  37  | n11   |   |   |   |
+|  38  | Poshmark   |   |   |   |
+|  39  | eMAG   |   |   |   |
+|  40  | StockX   |   |   |   |
+|  41  | ZOZOTOWN   |   |   |   |
+|  42  | Overstock   |   |   |   |
+|  43  | Fnac  |   |   |   |
+|  44  | Kroger Ship   |   |   |   |
+|  45  | Myntra   |   |   |   |
+|  46  | GittiGidiyor   |   |   |   |
+|  47  | Gmarket   |   |   |   |
+|  48  | Newegg   |   |   |   |
+|  49  | Houzz   |   |   |   |
+|  50  |Bukalapak   |   |   |   |
+|  51  | PayPay Mall  |   |   |   |
+|  52  | Bandcamp   |   |   |   |
+|  53  | Dafiti   |   |   |   |
+|  54  | Netshoes   |   |   |   |
+|  55  | Jumia   |   |   |   |
+|  56  | Extra   |   |   |   |
+|  57  | Falabella   |   |   |   |
+|  58  | Submarino   |   |   |   |
+|  59  | Pontofrio   |   |   |   |
+|  60  | Shoptime   |   |   |   |
+|  61  | Barnes and Noble   |   |   |   |
+|  62  | Farfetch   |   |   |   |
+|  63  | Blibli   |   |   |   |
+|  64  | Best Buy Canada   |   |   |   |
+|  65  | Kaufland   |   |   |   |
+|  66  | Snapdeal   |   |   |   |
+|  67  | Trade Me   |   |   |   |
+|  68  | GunBroker   |   |   |   |
+|  69  | La Redoute   |   |   |   |
+|  70  | noon   |   |   |   |
+|  71  | Reverb   |   |   |   |
+|  72  | Rue du Commerce   |   |   |   |
+|  73  | Tiki   |   |   |   |
+|  74  | Darty   |   |   |   |
+|  75  | Qoo10 Japan   |   |   |   |
+|  76  | AbeBooks   |   |   |   |
+|  77  | Ricardo   |   |   |   |
+|  78  | Lamoda   |   |   |   |
+|  79  | Linio   |   |   |   |
+|  80  | dba   |   |   |   |
+|  81  | Joom   |   |   |   |
+|  82  | Conforama   |   |   |   |
+|  83 | Tradera   |   |   |   |
+|  84  | Depop   |   |   |   |
+|  85  | Vipshop   |   |   |   |
+|  86  | Souq   |   |   |   |
+|  87  | Takealot.com   |   |   |   |
+|  88  | Worten   |   |   |   |
+|  89  | Fruugo   |   |   |   |
+|  90  | Spartoo  |   |   |   |
+|  91  | G2A.com   |   |   |   |
+|  92  | Zattini   |   |   |   |
+|  93  | shopgoodwill.com   |   |   |   |
+|  94  | digitec   |   |   |   |
+|  95  | OnBuy   |   |   |   |
+|  96  | TheRealReal   |   |   |   |
+|  97  | Wehkamp   |   |   |   |
+|  98  | Sears   |   |   |   |
+|  99  | Zalora   |   |   |   |
+|  100  | Privalia   |   |   |   |
+|  101  | Catch.com.au  |   |   |   |
+|  102  | Grailed   |   |   |   |
+|  103  | Sendo   |   |   |   |
+|  104  | GOAT   |   |   |   |
+|  105  | Aukro   |   |   |   |
+|  106  | The Iconic   |   |   |   |
+|  107  | Shpock   |   |   |   |
+|  108  | cdon   |   |   |   |
+|  109  | Shopclues   |   |   |   |
+|  110  | Desert Cart   |   |   |   |
+|  111  | Qoo10   |   |   |   |
+|  112  | Vestiaire Collective   |   |   |   |
+|  113  | 1stdibs   |   |   |   |
+|  114  | morele   |   |   |   |
+|  115  | BrickLink   |   |   |   |
+|  116  | notonthehighstreet   |   |   |   |
+|  117  | Kaspi  |   |   |   |
+|  118  | ePRICE   |   |   |   |
+|  119  | Bonanza  |   |   |   |
+|  120  | MyDeal.com.au  |   |   |   |
+|  121  | Delcampe   |   |   |   |
+|  122  | Rue La La   |   |   |   |
+|  123  | Meesho   |   |   |   |
+|  124  | Tophatter  |   |   |   |
+|  125  | GAME   |   |   |   |
+|  126  | Kanui   |   |   |   |
+|  127  | Decathlon   |   |   |   |
+|  128  | Galeries Lafayette   |   |   |   |
+|  129  | Jane   |   |   |   |
+|  130  | Pepperfry   |   |   |   |
+|  131  | Fyndiq   |   |   |   |
+|  132  | Tradesy   |   |   |   |
+|  133  | hood  |   |   |   |
+|  134  | eCRATER   |   |   |   |
+|  135  | Konga   |   |   |   |
+|  136  | Okazii.ro   |   |   |   |
+|  137  | miinto   |   |   |   |
+|  138  | Cel   |   |   |   |
+|  139  | Storenvy   |   |   |   |
+|  140  | Tricae   |   |   |   |
+|  141  | Paytm Mall   |   |   |   |
+|  142  | bidorbuy   |   |   |   |
+|  143  | Micolet   |   |   |   |
+
+
