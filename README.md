@@ -123,13 +123,11 @@
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | paris  |   |  Supermercado |   |
-|  2  | hiperlibertad |   | Supermercado  |   |
-|  3 |  tuzonamarket |   | Supermercado  |   |
-|   4| Paris.cl  |   | Supermercado  |   |
-|   5|  maxiconsumo |   | Supermercado  |   |
-| 7  | cotodigital |   | Supermercado  |   |
-| 8  |  farmacity |   | Supermercado  |   |
-| 9  | easy  |   | Supermercado  |   |
-| 10  | jumbo  |   | Supermercado  |   |
-
+|  1  |[ hiperlibertad](https://www.hiperlibertad.com.ar/ " hiperlibertad") |   | Supermercado  |   |
+| 2 |  [tuzonamarket ](https://tuzonamarket.com/carabobo "tuzonamarket ")|   | Supermercado  |   |
+| 3 | [Paris.cl](https://www.paris.cl/ "Paris.cl")  |   | Supermercado  |   |
+| 4 |  [maxiconsumo](https://maxiconsumo.com/ "maxiconsumo") |   | Supermercado  |   |
+| 5  | [cotodigital](https://www.cotodigital3.com.ar/sitios/cdigi/ "cotodigital") |   | Supermercado  |   |
+| 6  |  [farmacity](https://www.farmacity.com/ "farmacity") |   | Supermercado  |   |
+| 7  | [easy](https://www.easy.cl/tienda/ "easy")  |   | Supermercado  |   |
+| 8  | [jumbo](https://www.jumbo.cl/ "jumbo")  |   | Supermercado  |   |
