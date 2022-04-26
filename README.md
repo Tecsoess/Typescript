@@ -4,35 +4,36 @@
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Paseo Libertad  |   |  Shopping |   |
-|  2  | Sambil On line|   | Shopping  |   |
-|  3 |  Portafolio Argentina |   | Shopping  |   |
-|   4| Paris.cl  |   | Shopping  |   |
-|   5|  TOM |   | Shopping  |   |
-| 7  | Estudio Nube  |   | Shopping  |   |
-| 8  |  San Justo shopping on line |   | Shopping  |   |
-| 9  | Mall Marina  |   | Shopping  |   |
-| 10  | Americanas  |   | Shopping  |   |
-| 11  |  Magalu |   | Shopping  |   |
+|  1  | [Paseo Libertad ](https://www.google.com/url?q=https%3A%2F%2Fwww.paseolibertadonline.com.ar%2F&sa=D&sntz=1&usg=AOvVaw0f0AGz9ypXwfZXoYWIQUky "Paseo Libertad ") |   |  Shopping |   |
+|  2  | [Sambil On line](https://www.google.com/url?q=https%3A%2F%2Fwww.sambilonline.do%2F&sa=D&sntz=1&usg=AOvVaw3no4v9xGMCUuVfpaWYas7V "Sambil On line")|   | Shopping  |   |
+|  3 |  [Portafolio Argentina](https://www.google.com/url?q=https%3A%2F%2Fwww.irsa.com.ar%2Fportfolio_inv.php%3Fcat%3Dar&sa=D&sntz=1&usg=AOvVaw35k-KpcjK4p85YE9VgQ3lR "Portafolio Argentina") |   | Shopping  |   |
+|   4| [Paris.cl](https://www.google.com/url?q=https%3A%2F%2Fwww.paris.cl%2F&sa=D&sntz=1&usg=AFQjCNF_fSBLsd97Kv4MUma0LKrCXJ9fHg "Paris.cl")  |   | Shopping  |   |
+|   5| [ TOM](https://www.google.com/url?q=https%3A%2F%2Fwww.tortugasopenmall.com%2F&sa=D&sntz=1&usg=AOvVaw0yOL8u7bzxKapfAHLAwgA9 " TOM") |   | Shopping  |   |
+| 7  |[ Estudio Nube  ](https://www.google.com/url?q=https%3A%2F%2Fsite.tiendanube.com%2Festudio-nube&sa=D&sntz=1&usg=AOvVaw0m_63uVux5x2LWbA7h21Vf " Estudio Nube  ")|   | Shopping  |   |
+| 8  |  [San Justo shopping on line](https://www.google.com/url?q=https%3A%2F%2Fwww.sanjustoshopping.com.ar%2F&sa=D&sntz=1&usg=AOvVaw2U3fQliJkWHzlPL8l5QmQG "San Justo shopping on line") |   | Shopping  |   |
+| 9  | [Mall Marina](https://www.google.com/url?q=https%3A%2F%2Fwww.mallmarina.cl%2F&sa=D&sntz=1&usg=AOvVaw0U83-8IoNIeR3_RLDXUBCA "Mall Marina")  |   | Shopping  |   |
+| 10  | [Americanas](https://www.americanas.com.br/ "Americanas")  |   | Shopping  |   |
+| 11  |  [Magalu](https://www.magazineluiza.com.br/ "Magalu") |   | Shopping  |   |
 
 ## Marketplace bancarios 
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Tienda Ciudad  |   |  Bancario |   |
-|  2  | Tienda BNA|   | Bancario  |   |
-|  3 |  Mall ICBC |   | Bancario  |   |
-|   4| Banco Santander  |   | Bancario  |   |
+|  1  | [Tienda Ciudad](https://www.google.com/url?q=https%3A%2F%2Ftiendaciudad.com.ar%2F&sa=D&sntz=1&usg=AOvVaw2kfin_txVgKBHApTLPpH2N "Tienda Ciudad")  |   |  Bancario |   |
+|  2  | [Tienda BNA](https://www.google.com/url?q=https%3A%2F%2Ftiendabna.com.ar%2F&sa=D&sntz=1&usg=AOvVaw0RmlQChH4-U8S8kCBDlyeC "Tienda BNA") |   | Bancario  |   |
+|  3 |  [Mall ICBC](https://www.google.com/url?q=https%3A%2F%2Fmall.icbc.com.ar%2F&sa=D&sntz=1&usg=AOvVaw2C9oVfu7vSrOn5ZC9Cth2p "Mall ICBC") |   | Bancario  |   |
+|   4| [Banco Santander](https://www.google.com/url?q=https%3A%2F%2Fwww.santander.com.ar%2Fbanco%2Fonline%2Fpersonas%2Fbeneficios&sa=D&sntz=1&usg=AOvVaw31-xmNoxiFTKwe7C8iXEgj "Banco Santander")  |   | Bancario  |   |
 
 
 ## Marketplace Live Streaming
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Amazon  |   |  Streaming |   |
-|  2  | Twicht|   | Streaming  |   |
-|  3 | Go Jiraf |   | Streaming  |   |
-|   4| Instragram |   | Streaming  |   -   |
+|  1  | [Amazon](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2Flive&sa=D&sntz=1&usg=AOvVaw2xxLTHzfOh1wMxoLN1zkP0 "Amazon")  |   |  Streaming |   |
+|  2  | [Twicht](https://www.google.com/url?q=https%3A%2F%2Fwww.twitch.tv%2F&sa=D&sntz=1&usg=AOvVaw3yHf13SWr-TFu2QW-zl8eu "Twicht") |   | Streaming  |   |
+|  3 | [Go Jiraf](https://www.google.com/url?q=https%3A%2F%2Fgojiraf.com%2F&sa=D&sntz=1&usg=AOvVaw3ihY9sAes-ghlqUNNRt0c9 "Go Jiraf") |   | Streaming  |   |
+|   4| [Instragram](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fformedia%2Ftools%2Finstagram-live&sa=D&sntz=1&usg=AOvVaw3HsDTKIkbqNSxjrKgn6sBC "Instragram") |   | Streaming  |   -   |
+
 
 
 ## Marketplace Tiendas
