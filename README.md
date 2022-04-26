@@ -73,16 +73,51 @@
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Paseo Libertad  |   |  Bancario |   |
-|  2  | Sambil On line|   | Bancario  |   |
-|  3 |  Portafolio Argentina |   | Bancario  |   |
-|   4| Paris.cl  |   | Bancario  |   |
-|   5|  TOM |   | Bancario  |   |
-| 7  | Estudio Nube  |   | Bancario  |   |
-| 8  |  San Justo shopping on line |   | Bancario  |   |
-| 9  | Mall Marina  |   | Bancario  |   |
-| 10  | Americanas  |   | Bancario  |   |
-| 11  |  Magalu |   | Bancario  |   |
+|  1  | DeVenta  |   |  General |   |
+|  2  | Haz tu reserva |   | General  |   |
+|  3 |  Bukest|   | General  |   |
+|   4| TetraPak  |   | General  |   |
+|   5|  DeOnce |   | General  |   |
+| 7  | sesocio  |   | General  |   |
+| 8  |  tiendaequipoear |   | General  |   |
+| 9  | trovaprezzi  |   | General  |   |
+| 10  | donalo  |   | General  |   |
+| 11  |  correoscostarica |   | General  |   |
+| 12  |  eixfortpienc |   | General  |   |
+| 13  |  Aclases |   | General  |   |
+| 14  |  wisboo |   | General  |   |
+| 15  |  avenidamas |   | General  |   |
+| 16  | aper       |   | General  |   |
+| 17  |  anymarket |   | General  |   |
+| 18  |  algoritmolegal |   | General  |   |
+| 19  |  bigcartel |   | General  |   |
+| 20  |  ingeniomarket |   | General  |   |
+| 21  |  ever |   | General  |   |
+| 22  |  omnyfy |   | General  |   |
+| 23  |  smdeals |   | General  |   |
+| 24  |  laraship |   | General  |   |
+| 25  |  urbanovillage |   | General  |   |
+| 26  |  jungleworks |   | General  |   |
+| 27  |  spainissport |   | General  |   |
+| 28  |  dafiti |   | General  |   |
+| 29  |  ordering |   | General  |   |
+| 30  |  doctoralia |   | General  |   |
+| 31  |  marketeers |   | General  |   |
+| 32  |  mercadoil |   | General  |   |
+| 33  |  beta |   | General  |   |
+| 34  |  ofelia |   | General  |   |
+| 35  |  ecomod |   | General  |   |
+| 36  |  cristianus |   | General  |   |
+| 37  |  losequinos |   | General  |   |
+| 38  |  vendogo |   | General  |   |
+| 39  |  tdfexpress |   | General  |   |
+| 40  |  tiendaescobar |   | General  |   |
+| 41  |  redalimentaria |   | General  |   |
+| 42  |  wish |   | General  |   |
+| 43  |  flipkart |   | General  |   |
+| 44  |  cdiscount |   | General  |   |
+| 45  |  allegro |   | General  |   |
+
 
 ## Marketplace Supermercados
 
