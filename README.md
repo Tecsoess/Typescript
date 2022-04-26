@@ -39,34 +39,37 @@
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Target  |   |  Tiendas |   |
-|  2  | walmart|   | Tiendas  |   |
-|  3 |  Zolucky |   | Tiendas  |   |
-|   4| Sears  |   | Tiendas  |   |
-|   5|  Kroger |   | Tiendas  |   |
-| 7  | The home Depot |   | Tiendas  |   |
-| 8  |  Kmart |   | Tiendas  |   |
-| 9  | Cotsco |   | Tiendas  |   |
-| 10  | Leroy Merlin  |   | Tiendas  |   |
-| 11  |  Mano Mano |   | Tiendas  |   |
-| 12  |  Imotriz Marketplace |   | Tiendas  |   |
-| 13  |  Elektra |   | Tiendas  |   |
-| 14  |  Libre Opción |   | Tiendas  |   |
-| 15  |  CryptoAvisos |   | Tiendas  |   |
-| 16  |  Tiendaclick |   | Tiendas  | -  |
+|  1  |[ Target](https://www.google.com/url?q=https%3A%2F%2Fwww.target.com%2F&sa=D&sntz=1&usg=AOvVaw1yPzO3g9Feyx3uE_DDa1WW " Target")  |   |  Tiendas |   |
+|  2  | [walmart](https://www.google.com/url?q=https%3A%2F%2Fwww.walmart.com%2F&sa=D&sntz=1&usg=AOvVaw2gYqFu4o0tnrDQ2IG9ylX6 "walmart") |   | Tiendas  |   |
+|  3 | [ Zolucky](https://www.google.com/url?q=https%3A%2F%2Fzolucky.com%2F&sa=D&sntz=1&usg=AOvVaw2jRfhH-2UpMXZ9tRk0XXD2 " Zolucky") |   | Tiendas  |   |
+|   4| [Sears](https://www.google.com/url?q=https%3A%2F%2Fwww.sears.com%2F&sa=D&sntz=1&usg=AOvVaw0esTwJ0lWxnC6ur80oleXg "Sears")  |   | Tiendas  |   |
+|   5|  [Kroger](https://www.google.com/url?q=https%3A%2F%2Fwww.kroger.com%2F&sa=D&sntz=1&usg=AOvVaw2aG8Aa5mjeF6BW1j3q9MZo "Kroger") |   | Tiendas  |   |
+| 7  | [The home Depot](https://www.google.com/url?q=https%3A%2F%2Fwww.homedepot.com.mx%2F&sa=D&sntz=1&usg=AOvVaw0sM86PFbzP2CaNDOSv6pXe "The home Depot") |   | Tiendas  |   |
+| 8  |  [Kmart](https://www.google.com/url?q=https%3A%2F%2Fwww.kmart.com%2F&sa=D&sntz=1&usg=AOvVaw38Gn9ZWhmPbGN_hVqnX0x7 "Kmart") |   | Tiendas  |   |
+| 9  | [Cotsco](https://www.google.com/url?q=https%3A%2F%2Fwww.costco.com%2F&sa=D&sntz=1&usg=AOvVaw2DAkU0Vv50fNXl62IyHOts "Cotsco") |   | Tiendas  |   |
+| 10  | [Leroy Merlin](https://www.google.com/url?q=https%3A%2F%2Fwww.leroymerlin.es%2F&sa=D&sntz=1&usg=AOvVaw19w4wdJoX0t_ncGBqCfGWD "Leroy Merlin")  |   | Tiendas  |   |
+| 11  |  [Mano Mano](https://www.google.com/url?q=https%3A%2F%2Fwww.manomano.es%2F&sa=D&sntz=1&usg=AOvVaw2RG2R-xrN7bP8-PwkakcWo "Mano Mano") |   | Tiendas  |   |
+| 12  |  [Imotriz Marketplace](https://www.google.com/url?q=https%3A%2F%2Fwww.imotriz.com%2F&sa=D&sntz=1&usg=AOvVaw3_U7rM9JekItk26fhA17lj "Imotriz Marketplace") |   | Tiendas  |   |
+| 13  |  [Elektra](https://www.google.com/url?q=https%3A%2F%2Fwww.elektra.com.mx%2F&sa=D&sntz=1&usg=AOvVaw2fWga8__bII9NWhIoslcGU "Elektra") |   | Tiendas  |   |
+| 14  |  [Libre Opción ](https://www.google.com/url?q=https%3A%2F%2Fwww.libreopcion.com%2Ftiendas-oficiales&sa=D&sntz=1&usg=AOvVaw2nOsnnsDYHhmUYYISYbWNB "Libre Opción ")|   | Tiendas  |   |
+| 15  |  [CryptoAvisos](https://www.google.com/url?q=https%3A%2F%2Fcryptoavisos.com%2F&sa=D&sntz=1&usg=AOvVaw38MpYNUedhGQDFx0oNt-i3 "CryptoAvisos") |   | Tiendas  |   |
+| 16  |  [Tiendaclic](https://www.tiendaclic.com.ar/ "Tiendaclic") |   | Tiendas  | -  |
+| 17  |  [Shopee](https://shopee.com.ar/ "Shopee") |   | Tiendas  | -  |
+| 18  |  [Newegg](https://www.newegg.com/ "Newegg") |   | Tiendas  | -  |
+| 19  |  [Tiendaclick](https://www.depop.com/ "Tiendaclick") |   | Tiendas  | -  |
 
 
 ## Marketplace de Gobiernos
 
 | # | Nombre  | País/Región  | Product Category   | Visits/month  |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-|  1  | Comprá en 3F  |   |  Gobiernos |   |
-|  2  | Cordoba Vende |   | Gobiernos |   |
-|  3  |San Isidro |   | Gobiernos  |   |
-|  4 | Marketplace Cordoba  |   | Gobiernos  |   |
-|  5 |  Comercio En Digital |   | Gobiernos  |   |
-|  7  | Compra Venta Mendoza |   | Gobiernos  |   |
-|  8  |  San Rafael Turismo |   | Gobiernos  | -  |
+|  1  | [Comprá en 3F](https://www.google.com/url?q=https%3A%2F%2Fcompraen3f.com.ar%2F&sa=D&sntz=1&usg=AOvVaw2DGF0ax8h7U28G2AnWp1iw "Comprá en 3F")  |   |  Gobiernos |   |
+|  2  | [Cordoba Vende](https://www.google.com/url?q=https%3A%2F%2Fwww.cordobavende.com%2F&sa=D&sntz=1&usg=AOvVaw3L7lLmXhpwp92mjc-g2mfx "Cordoba Vende") |   | Gobiernos |   |
+|  3  | [San Isidro](https://www.google.com/url?q=https%3A%2F%2Fabiertosi.sanisidro.gob.ar%2F&sa=D&sntz=1&usg=AOvVaw3hkDld9eRqJBhkczdSohvT "San Isidro") |   | Gobiernos  |   |
+|  4 | [Marketplace Cordoba](https://www.google.com/url?q=https%3A%2F%2Fcordobadecompras.com%2F&sa=D&sntz=1&usg=AOvVaw2GFHzeTL4f18FYBTysy8yR "Marketplace Cordoba")  |   | Gobiernos  |   |
+|  5 |  [Comercio En Digital](http://www.google.com/url?q=http%3A%2F%2Fcomercioendigital.es%2Fmarketplace%2F&sa=D&sntz=1&usg=AOvVaw2mtswVksfU3i1CKHVk8az0 "Comercio En Digital") |   | Gobiernos  |   |
+|  7  | [Compra Venta Mendoza](https://www.google.com/url?q=https%3A%2F%2Fcompraventamendoza.com%2F&sa=D&sntz=1&usg=AOvVaw1Zvb5pFYH64-d33zr1cDYH "Compra Venta Mendoza") |   | Gobiernos  |   |
+|  8  |  [San Rafael Turismo](https://www.google.com/url?q=https%3A%2F%2Fpromos.sanrafaelturismo.gov.ar%2F&sa=D&sntz=1&usg=AOvVaw1K1V5C6_US3xfs5ZzdUDBV "San Rafael Turismo") |   | Gobiernos  | -  |
 
 
 ## Marketplace Generales
